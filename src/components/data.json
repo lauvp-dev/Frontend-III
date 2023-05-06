@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "historia": "Un día como cualquiera te vas a dormir... Lo siguiente que sabés es que te despertás en el medio de un bosque.",
+    "opciones": {
+      "a": "Pido ayuda a los gritos.",
+      "b": "Miro a mi alrededor."
+    }
+  },
+  {
+    "id": "2a",
+    "historia": "Instantáneamente entrás en pánico por lo bizarro de la situación y gritás: -Aiiudaaaa. Nadie responde. Detrás de un árbol enfrente tuyo se asoma lo que parece ser una bola de pelos de 2 metros.",
+    "opciones": {
+      "a": "Me levanto y camino lentamente hacia atrás.",
+      "b": "Me levanto y salgo corriendo."
+    }
+  },
+  {
+    "id": "2b",
+    "historia": "Mirás a tu alrededor y ves solo árboles, plantas y hongos. Detrás de un árbol, enfrente tuyo, se asoma lo que parece ser una bola de pelos de 2 metros.",
+    "opciones": {
+      "a": "Me levanto y camino lentamente hacia atrás.",
+      "b": "Me levanto y salgo corriendo."
+    }
+  },
+  {
+    "id": "3a",
+    "historia": "Lentamente y sin sacarle la mirada de encima te vas alejando de la cosa peluda. Ves que de golpe se mueve y empieza a correr hacia vos, no distinguís qué es pero salís corriendo. Escuchás de golpe un grito proveniente de la cosa peluda: -Esperá!!",
+    "opciones": {
+      "a": "Le hago caso y espero.",
+      "b": "Mirá si voy a esperar! Sigo corriendo!"
+    }
+  },
+  {
+    "id": "3b",
+    "historia": "Al levantarte ves que se mueve y empieza a correr hacia vos, no distinguís qué es pero salís corriendo pensando que puede ser un oso. Escuchás de golpe un grito proveniente de la cosa peluda: -Esperá!!",
+    "opciones": {
+      "a": "Le hago caso y espero.",
+      "b": "Mirá si voy a esperar! Sigo corriendo!"
+    }
+  },
+  {
+    "id": "4a",
+    "historia": "Parás de correr y al darte vuelta con algo de miedo ves que lo que te perseguía se detiene, te quedás sin palabras al ver que es un oso gigante con la cara de una señora muy maquillada que te dice; -Si querés llorar, llorá... Pero estás en un sueño, mi amor.",
+    "opciones": {
+      "a": "Me empiezo a reír de toda esta locura.",
+      "b": "Me pongo a bailar."
+    }
+  },
+  {
+    "id": "4b",
+    "historia": "El miedo no deja tu cuerpo y hace bien así que seguís corriendo, sin darte cuenta te tropezas con una piedra y quedas de cara con lo que te perseguía, lo que ves es ridículo, un oso gigante con la cara de una señora muy maquillada que te dice; -Si querés llorar, llora pero estás en un sueño mi amor.",
+    "opciones": {
+      "a": "Me empiezo a reír de toda esta locura.",
+      "b": "Me pongo a bailar."
+    }
+  },
+  {
+    "id": "5a",
+    "historia": "Tus carcajadas no paran, y hasta se tornan medio molestas, la verdad 😋. La cosa peluda se cansa de vos y te da una sólida bofetada en la cara con su brazo de 60 kg que te tuerce el cuello y te despierta instantáneamente. FIN.",
+    "opciones": { "a": "FIN.", "b": "FIN." }
+  },
+  {
+    "id": "5b",
+    "historia": "Por alguna razón, decidís ponerte a bailar, la cosa peluda no entiende porqué, los animales del bosque no entienden porqué, yo que escribo esto no entiendo porqué, nadie entiende porqué. La cosa peluda se cansa de tu bailecito y te da una sólida bofetada en la cara con su brazo de 60 kg que te tuerce el cuello y te despierta instantáneamente. FIN.",
+    "opciones": { "a": "FIN", "b": "FIN" }
+  }
+]
